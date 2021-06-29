@@ -7,3 +7,4 @@ File Name| link
 Read01.md| [Click](https://replit.com/@DinaAlamouri/reading-notes#Read01.md) 
 Growth mind|[Click](https://replit.com/@DinaAlamouri/reading-notes#Growth%20mind)
 Inroduce | [Click](https://replit.com/@DinaAlamouri/reading-notes#introduce)
+read02 |[Click](read02.md)
