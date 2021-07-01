@@ -4,7 +4,3 @@
 
 File Name| link   
 ---------|-------
-Read01| [Click](Read01.md)
-Growth mind|[Click](Growthmind.md)
-Inroduce | [Click](Inroduce.md)
-Readme02 | [Click](Readme.md)
