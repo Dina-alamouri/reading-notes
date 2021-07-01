@@ -4,3 +4,6 @@
 
 File Name| link   
 ---------|-------
+Growth Mind| [Click](Growthmind.md)
+Read01|[Click](Read01)
+Read02|[Click](Read02)
