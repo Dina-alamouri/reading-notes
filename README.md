@@ -8,4 +8,6 @@ Growth Mind| [Click](https://dina-alamouri.github.io/reading-notes/Growthmind)
 Read01|[Click](https://dina-alamouri.github.io/reading-notes/Read01)
 Read02|[Click](https://dina-alamouri.github.io/reading-notes/Read02)
 Read03| [Click](https://dina-alamouri.github.io/reading-notes/Read03)
+<<<<<<< HEAD
 Read04|[Click](https://dina-alamouri.github.io/reading-notes/Read04)
+.
