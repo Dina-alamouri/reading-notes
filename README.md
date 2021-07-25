@@ -2,9 +2,6 @@
  
 
 
-
-
-# -Code 102 Reading Notes .
 # Table of content .
 
 File Name| link   
