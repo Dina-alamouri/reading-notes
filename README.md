@@ -6,7 +6,7 @@
 
 
 
-# Table of content .
+# Table of content.
 
 ## code of 102
 
@@ -24,6 +24,6 @@ Read05| [Click](https://dina-alamouri.github.io/reading-notes/Read05)
 
 File name | link
 ----------|--------
-
+class-02.md|[Click](https://dina-alamouri.github.io/reading-notes/class-02.md)
 
 
